@@ -13,5 +13,9 @@ public class Demo1 {
 	public void day813() {
 		System.out.println("8月13日提交");
 	}
+	
+	public void day8131() {
+		System.out.println("8月13日提交");
+	}
 
 }
