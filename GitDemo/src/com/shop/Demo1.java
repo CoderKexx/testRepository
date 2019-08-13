@@ -9,5 +9,9 @@ public class Demo1 {
 	public void lisi() {}
 
 	public void zs() {}
+	
+	public void day813() {
+		System.out.println("8月13日提交");
+	}
 
 }
